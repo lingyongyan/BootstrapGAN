@@ -1,0 +1,7 @@
+torch_scatter==2.0.5
+scipy==1.5.2
+torch_geometric==1.6.1
+numpy==1.19.2
+allennlp==1.2.2
+regex==2020.10.15
+torch==1.7.0
