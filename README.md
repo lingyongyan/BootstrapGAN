@@ -4,7 +4,7 @@ This is the repo of for EMNLP 2021 paper "Progressive Adversarial Learning for B
 # Usage
 
 ## Dataset
-CoNLL and OntoNotes datasets can be downloaded from [here](https://drive.google.com/file/d/1Ow6Rf_LIilKvm0dVuJSF5dGigTMosOQq/view?usp=sharing); External pre-training datasets can be downloaded from [here](https://drive.google.com/file/d/1CulQu5oixrhBev4ECFhTQARiaCghwHtM/view?usp=sharing).
+CoNLL and OntoNotes datasets can be downloaded from [here](https://drive.google.com/file/d/102bhotYDMPlU0ojsmFXLmQttighNP9DR/view?usp=sharing); External pre-training datasets can be downloaded from [here](https://drive.google.com/file/d/1CulQu5oixrhBev4ECFhTQARiaCghwHtM/view?usp=sharing).
 
 After downloading, please unarchive them and put them into "dataset" folder at the root directory.
 
